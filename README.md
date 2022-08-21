@@ -1,3 +1,5 @@
+![whoiam banner](https://github.com/davidemastricci/budget-assistant/blob/main/img/logo.png?raw=true)
+
 # Budjee - the budget assistant
 
 _A vocal \ chat assistant that help you with budgeting._
