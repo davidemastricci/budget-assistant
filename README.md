@@ -4,6 +4,7 @@ _A vocal \ chat assistant that help you with budgeting._
 
 
 ---
+
 ## 👋 Introduction
 
 Budjee is an open-soruce assistant.
