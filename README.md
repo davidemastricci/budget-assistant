@@ -1,8 +1,13 @@
 ![whoiam banner](https://github.com/davidemastricci/budget-assistant/blob/main/img/logo.png?raw=true)
 
+*<p align="center">A vocal \ chat assistant that help you with budgeting.</p>*
+<p align="center">
+  <a href="https://github.com/davidemastricci/budget-assistant/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License&style=flat" /></a>
+</p>
+
 # Budjee - the budget assistant
 
-_A vocal \ chat assistant that help you with budgeting._
+
 
 
 ---
